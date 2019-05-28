@@ -1,5 +1,5 @@
 
-var ServerEvents = require("../../ServerEvents/ServerEvents");
+var ServerEvents = require("../ServerEvents/ServerEvents");
 module.exports = class GameLogic {
     constructor(table, potValue) {
         // this.gamePlayers = {};

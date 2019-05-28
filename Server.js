@@ -3,8 +3,6 @@ var Player = require("./API/DataModels/Player");
 var Lobby = require("./API/DataModels/Lobby");
 var SocketSettings = require("./API/ServerSettings/SocketServerSettings");
 var ServerEvents = require("./API/ServerEvents/ServerEvents");
-
-var playersList = new PlayersList();
 var lobby = new Lobby("Lobby1", 1);
 console.log("Socket Server Started at port: " + SocketSettings.socketPort);
 
