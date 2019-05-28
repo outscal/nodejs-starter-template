@@ -38,6 +38,7 @@ the address for the client to connect will be example: 192.168.43.2:8182
     or
     it can also be deployed on Digital Ocean.
 Follow the links below for deploying the server online
+ 
  AWS: https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node-on-ec2-instance.html
  Digital Ocean:https://www.digitalocean.com/docs/droplets/
 
