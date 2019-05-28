@@ -1,5 +1,5 @@
 var ServerEvents = require("../ServerEvents/ServerEvents");
-var GameLogic = require("../GameLogic/gameLogic");
+var GameLogic = require("../GameLogic/GamePlayLogic");
 module.exports = class Room {
     constructor(rName, rID, lobby) {
         this.roomName = rName;
