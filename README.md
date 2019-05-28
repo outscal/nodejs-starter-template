@@ -19,6 +19,7 @@ npm install
 node server.js
 ```
 5 )The port on which the server is running can be setup in ServerSettings.js file 
+
 6 ) To find the ip address type the cammand bellow in terminal or CMD
 
 macOS:
@@ -40,5 +41,6 @@ the address for the client to connect will be example: 192.168.43.2:8182
 Follow the links below for deploying the server online
  
  AWS: https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node-on-ec2-instance.html
+ 
  Digital Ocean:https://www.digitalocean.com/docs/droplets/
 
